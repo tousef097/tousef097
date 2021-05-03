@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammed Tousef
 - 🌱 I’m currently learning Python and Data Science
-- 💞️ I’m looking to collaborate on real wolrd machine learning projects
 - 📫 How to reach me https://www.linkedin.com/in/mohammed-tousef-98267b139/
 
 <!---
